@@ -3,19 +3,20 @@
     <song id="1">
         <title>Chúng Ta Của Hiện Tại</title>
         <artist>Sơn Tùng M-TP</artist>
-        <filename>chung-ta-cua-hien-tai.mp3</filename>
+        <filename>chung-ta-cua-hien-tai.ogg</filename>
     </song>
     
     <song id="2">
         <title>Nàng Thơ</title>
         <artist>Hoàng Dũng</artist>
-        <filename>nang-tho.mp3</filename>
+        <filename>nang-tho.ogg</filename>
     </song>
     
     <song id="3">
         <title>Ngày Đầu Tiên</title>
         <artist>Đức Phúc</artist>
-        <filename>ngay-dau-tien.mp3</filename>
+        <filename>ngay-dau-tien.ogg</filename>
     </song>
+
 
     </playlist>
