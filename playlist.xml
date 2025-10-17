@@ -5,18 +5,111 @@
         <artist>Sơn Tùng M-TP</artist>
         <filename>chung-ta-cua-hien-tai.ogg</filename>
     </song>
-    
     <song id="2">
         <title>Nàng Thơ</title>
         <artist>Hoàng Dũng</artist>
         <filename>nang-tho.ogg</filename>
     </song>
-    
     <song id="3">
         <title>Ngày Đầu Tiên</title>
         <artist>Đức Phúc</artist>
         <filename>ngay-dau-tien.ogg</filename>
     </song>
-
-
-    </playlist>
+    <song id="4">
+        <title>Mất Kết Nối</title>
+        <artist>Dương Domic</artist>
+        <filename>mat-ket-noi.ogg</filename>
+    </song>
+    <song id="5">
+        <title>Phép Màu</title>
+        <artist>Minh Tốc và Lam</artist>
+        <filename>phep-mau.ogg</filename>
+    </song>
+    <song id="6">
+        <title>Bắc Bling</title>
+        <artist>Hòa Minzy, Xuân Hinh & Tuấn Cry</artist>
+        <filename>bac-bling.ogg</filename>
+		
+		
+    </song>
+    <song id="7">
+        <title>Đừng Làm Trái Tim Anh Đau</title>
+        <artist>Sơn Tùng M-TP</artist>
+        <filename>dung-lam-trai-tim-anh-dau.ogg</filename>
+    </song>
+    <song id="8">
+        <title>Thủy Triều</title>
+        <artist>Quang Hùng</artist>
+        <filename>thuy-trieu.ogg</filename>
+    </song>
+    <song id="9">
+        <title>Phim Ba Người</title>
+        <artist>Remix</artist>
+        <filename>phim-ba-nguoi.ogg</filename>
+    </song>
+    <song id="10">
+        <title>Đường Quyền Tình Yêu</title>
+        <artist>Remix</artist>
+        <filename>duong-quyen-tinh-yeu.ogg</filename>
+    </song>
+    <song id="11">
+        <title>Em Thật Là Ngốc</title>
+        <artist>Gia Huy</artist>
+        <filename>em-that-la-ngoc.ogg</filename>
+    </song>
+    <song id="12">
+        <title>Sai Người Sai Thời Điểm</title>
+        <artist>Thanh Hưng</artist>
+        <filename>sai-nguoi-sai-thoi-diem.ogg</filename>
+    </song>
+    <song id="13">
+        <title>Tâm Sự Tuổi 30</title>
+        <artist>Trịnh Thăng Bình</artist>
+        <filename>tam-su-tuoi-30.ogg</filename>
+    </song>
+    <song id="14">
+        <title>Nếu Ngày Ấy</title>
+        <artist>Soobin</artist>
+        <filename>neu-ngay-ay.ogg</filename>
+    </song>
+    <song id="15">
+        <title>Hoa Nở Không Màu</title>
+        <artist>Hoài Lâm</artist>
+        <filename>hoa-no-khong-mau.ogg</filename>
+    </song>
+    <song id="16">
+        <title>Đừng Như Thói Quen</title>
+        <artist>Mai Văn Hương - Trúc Lâm</artist>
+        <filename>dung-nhu-thoi-quen.ogg</filename>
+    </song>
+    <song id="17">
+        <title>Chạm Đáy Nỗi Đau</title>
+        <artist>Eric</artist>
+        <filename>cham-day-noi-dau.ogg</filename>
+    </song>
+    <song id="18">
+        <title>Tình Anh</title>
+        <artist>Đình Dũng</artist>
+        <filename>tinh-anh.ogg</filename>
+    </song>
+    <song id="19">
+        <title>Điều Anh Biết</title>
+        <artist>Chi Dân</artist>
+        <filename>dieu-anh-biet.ogg</filename>
+    </song>
+    <song id="20">
+        <title>Mở Lối Cho Em</title>
+        <artist>Huy Phan</artist>
+        <filename>mo-loi-cho-em.ogg</filename>
+    </song>
+	 <song id="21">
+        <title>Điều Tuyệt Vời</title>
+        <artist>Mỹ Tâm</artist>
+        <filename>dieu-tuyet-voi.ogg</filename>
+    </song>
+	 <song id="22">
+        <title>Tương Phùng Tương Ngộ</title>
+        <artist>Quan Họ Bắc Ninh</artist>
+        <filename>tuong-phung-tuong-ngo.ogg</filename>
+    </song>
+</playlist>
