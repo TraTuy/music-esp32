@@ -112,4 +112,19 @@
         <artist>Quan Họ Bắc Ninh</artist>
         <filename>tuong-phung-tuong-ngo.ogg</filename>
     </song>
+	<song id="23">
+        <title>Ơn Nghĩa Sinh Thành</title>
+        <artist>Duy Phường</artist>
+        <filename>on-nghia-sinh-thanh.ogg</filename>
+    </song>
+	<song id="24">
+        <title>Mạnh Bà</title>
+        <artist>Hit hot</artist>
+        <filename>manh-ba.ogg</filename>
+    </song>
+	<song id="25">
+        <title>Ngàn nỗi Nhớ Xin Trao</title>
+        <artist>Hit hot</artist>
+        <filename>ngan-loi-nho-xin-trao.ogg</filename>
+    </song>
 </playlist>
