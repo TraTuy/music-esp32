@@ -127,4 +127,95 @@
         <artist>Hit hot</artist>
         <filename>ngan-loi-nho-xin-trao.ogg</filename>
     </song>
+	<song id="26">
+        <title>Nhạc Không Lời Số Một</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-mot.ogg</filename>
+    </song>
+	<song id="27">
+        <title>Nhạc Không Lời Số Hai</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-hai.ogg</filename>
+    </song>
+	<song id="28">
+        <title>Nhạc Không Lời Số Ba</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-ba.ogg</filename>
+    </song>
+    <song id="29">
+        <title>Nhạc Không Lời Số Bốn</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-bon.ogg</filename>
+    </song>
+    <song id="30">
+        <title>Nhạc Không Lời Số Năm</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-nam.ogg</filename>
+    </song>
+    <song id="31">
+        <title>Nhạc Không Lời Số Sáu</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-sau.ogg</filename>
+    </song>
+    <song id="32">
+        <title>Nhạc Không Lời Số Bảy</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-bay.ogg</filename>
+    </song>
+    <song id="33">
+        <title>Nhạc Không Lời Số Tám</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-tam.ogg</filename>
+    </song>
+    <song id="34">
+        <title>Nhạc Không Lời Số Chín</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-chin.ogg</filename>
+    </song>
+    <song id="35">
+        <title>Nhạc Không Lời Số Mười</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-muoi.ogg</filename>
+    </song>
+    <song id="36">
+        <title>Nhạc Không Lời Số Mười Một</title>
+        <artist>Hit hot</artist>
+        <filename>nhac-khong-loi-so-muoi-mot.ogg</filename>
+    </song>
+	 <song id="37">
+        <title>Chúc Mừng Sinh Nhật</title>
+        <artist>Remix</artist>
+        <filename>chuc-mung-sinh-nhat.ogg</filename>
+    </song>
+	<song id="38">
+        <title>Chúc Mừng Năm Mới</title>
+        <artist>Sưu Tầm</artist>
+        <filename>chuc-mung-nam-moi.ogg</filename>
+    </song>
+	<song id="39">
+        <title>Còn Duyên</title>
+        <artist>Quan Họ Bắc Ninh</artist>
+        <filename>con-duyen.ogg</filename>
+    </song>
+	<song id="40">
+        <title>Gửi Về Quan Họ</title>
+        <artist>Quan Họ Bắc Ninh</artist>
+        <filename>gui-ve-quan-ho.ogg</filename>
+    </song>
+	<song id="41">
+        <title>Tìm Em Trong Chiều Hội Lim</title>
+        <artist>Quan Họ Bắc Ninh</artist>
+        <filename>tim-em-trong-chieu-hoi-lim.ogg</filename>
+    </song>
+	<song id="42">
+        <title>Cứ Hỏi Em Vì Sao</title>
+        <artist>Mỹ Tâm</artist>
+        <filename>cu-hoi-em-vi-sao.ogg</filename>
+    </song>
+	<song id="43">
+        <title>Cứ Vui Lên</title>
+        <artist>Mỹ Tâm</artist>
+        <filename>cu-vui-len.ogg</filename>
+    </song>
 </playlist>
+
